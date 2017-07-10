@@ -61,7 +61,7 @@ public class FullscreenActivity extends Activity {
         mWebView.getSettings().setRenderPriority(RenderPriority.HIGH);
         mWebView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
         mWebView.getSettings().setDomStorageEnabled(true);
-        mWebView.getSettings().setPluginsEnabled(true);
+        //mWebView.getSettings().setPluginsEnabled(true);
         mWebView.getSettings().setAllowFileAccess(true);
         mWebView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
 
