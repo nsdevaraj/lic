@@ -21,7 +21,7 @@ import android.widget.RelativeLayout;
 public class FullscreenActivity extends Activity {
 
     // set your custom url here
-    String url = "https://ebiz.licindia.in";
+    String url = "https://ebiz.licindia.in/D2CPM/#MLogin";
     //"http://nsdevaraj.github.io/fm";
 
     // if you want to show progress bar on splash screen
